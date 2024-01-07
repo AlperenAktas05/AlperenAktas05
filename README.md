@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A computer engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [alperenaktas.infinityfreeapp.com/](https://alperenaktas.infinityfreeapp.com/)
 
