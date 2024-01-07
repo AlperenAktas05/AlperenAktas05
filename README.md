@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://alperenaktas.infinityfreeapp.com/](https://alperenaktas.infinityfreeapp.com/)
+- 👨‍💻 All of my projects are available at [alperenaktas.infinityfreeapp.com/](https://alperenaktas.infinityfreeapp.com/)
 
-- 📝 I regularly write articles on [https://alperenaktas.infinityfreeapp.com/calismalar.html](https://alperenaktas.infinityfreeapp.com/calismalar.html)
+- 📝 I regularly write articles on [alperenaktas.infinityfreeapp.com/calismalar.html](https://alperenaktas.infinityfreeapp.com/calismalar.html)
 
 - 📫 How to reach me **aktasalperen0@gmail.com**
 
-- 📄 Know about my experiences [https://alperenaktas.infinityfreeapp.com/ozgecmis.html](https://alperenaktas.infinityfreeapp.com/ozgecmis.html)
+- 📄 Know about my experiences [alperenaktas.infinityfreeapp.com/ozgecmis.html](https://alperenaktas.infinityfreeapp.com/ozgecmis.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
