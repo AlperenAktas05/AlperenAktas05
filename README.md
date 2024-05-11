@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">A computer engineer from Turkey</h3>
+<h3 align="center">A computer engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **PHP · Laravel**
 
 - 👨‍💻 All of my projects are available at [alperenaktas.infinityfreeapp.com/](https://alperenaktas.infinityfreeapp.com/)
 
-- 📝 I regularly write articles on [alperenaktas.infinityfreeapp.com/calismalar.html](https://alperenaktas.infinityfreeapp.com/calismalar.html)
+- 📝 I regularly write articles on [alperenaktas.infinityfreeapp.com/calismalar.html](https://alperenaktas.infinityfreeapp.com/workspace.html)
 
 - 📫 How to reach me **aktasalperen0@gmail.com**
 
-- 📄 Know about my experiences [alperenaktas.infinityfreeapp.com/ozgecmis.html](https://alperenaktas.infinityfreeapp.com/ozgecmis.html)
+- 📄 Know about my experiences [alperenaktas.infinityfreeapp.com/ozgecmis.html](https://alperenaktas.infinityfreeapp.com/cv.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
