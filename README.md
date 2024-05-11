@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [alperenaktas.infinityfreeapp.com/](https://alperenaktas.infinityfreeapp.com/)
 
-- 📝 I regularly write articles on [alperenaktas.infinityfreeapp.com/calismalar.html](https://alperenaktas.infinityfreeapp.com/workspace.html)
+- 📝 I regularly write articles on [alperenaktas.infinityfreeapp.com/workspace.html](https://alperenaktas.infinityfreeapp.com/workspace.html)
 
 - 📫 How to reach me **aktasalperen0@gmail.com**
 
-- 📄 Know about my experiences [alperenaktas.infinityfreeapp.com/ozgecmis.html](https://alperenaktas.infinityfreeapp.com/cv.html)
+- 📄 Know about my experiences [alperenaktas.infinityfreeapp.com/cv.html](https://alperenaktas.infinityfreeapp.com/cv.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
